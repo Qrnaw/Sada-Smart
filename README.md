@@ -1,6 +1,6 @@
 # Task1-SadaSmart
 
-During this repository, two tasks were completed:
+in this repository, two tasks were completed:
 
 1- Create a website to convert audio to text.
 
